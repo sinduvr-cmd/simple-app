@@ -1,7 +1,7 @@
 import streamlit as st
 st.set_page_config(page_title="My Colab App", layout="wide")
-st.title("🚀 Streamlit Web App from Google Colab")
-st.write("This app was created inside Google Colab and is powered by Streamlit!")
+st.title("🚀 Streamlit AI Traveller Web App from Google Colab")
+st.write("created inside Google Colab and powered by Streamlit!")
 #st.title("AI Traveller APP")
 
 destination=st.text_input("Enter destination")
